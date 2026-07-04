@@ -383,9 +383,11 @@ http://fastshare1.com/live/25711345/late8airline/745202.ts
 http://fastshare1.com/live/25711345/late8airline/751354.ts
 #EXTINF:-1 tvg-name="Tyc Sports - ARG 🇦🇷" group-title="Sports" tvg-logo="https://imglink.cc/cdn/1oSRQnyUqK.jpg",Tyc Sports - ARG 🇦🇷
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-name="I Screen" group-title="Sports" tvg-logo="",I Screen
-https://cricxtv.fun/isceen.php?file=https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/tc_sg_1_1080p.m3u8
-#EXTINF:-1 tvg-name="Boioscope+" group-title="Sports" tvg-logo="",Boioscope+
-https://rajutv.pages.dev/proxy?url=https%3A%2F%2Fdalvikcmpsr.ahmedtahsindipto.workers.dev%2Fr%2Fhttps%253A%252F%252Ffifa-stream-01.bioscopelive.com%252Fout%252Fv1%252F60e7608404004b1186261497b404630b%252Findex_1.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png",Star Sports 1
 https://starsportshindiii.pages.dev/index.m3u8
+#EXTINF:-1 tvg-name="Caze TV" group-title="Sports" tvg-logo="",Caze TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
+#EXTINF:-1 tvg-name="Bein Sports" group-title="Sports" tvg-logo="",Bein Sports
+https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index
+#EXTINF:-1 tvg-name="Iscreen" group-title="Sports" tvg-logo="",Iscreen
+https://cricxtv.fun/isceen.php?file=https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/tc_sg_1_1080p.m3u8
